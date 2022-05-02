@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/이어드림스쿨"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.kernels.filter": []
+	}
+}
